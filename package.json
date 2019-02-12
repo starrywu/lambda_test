@@ -18,5 +18,10 @@
   "homepage": "https://github.com/starrywu/lambda_test#readme",
   "dependencies": {
     "lodash": "^4.17.11"
+  },
+  "devDependencies": {
+    "grunt": "0.4.*",
+    "grunt-aws-lambda": "0.8.0",
+    "npm": "^2.8.3"
   }
 }
