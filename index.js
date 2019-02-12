@@ -1,4 +1,4 @@
-//const isArray = require('lodash').isArray;
+const isArray = require('lodash').isArray;
 
 exports.handler = async (event) => {
     
